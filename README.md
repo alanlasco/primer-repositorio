@@ -1,2 +1,2 @@
-# mi primer README
+# Mi primer README
 aprendiendo a usar github
